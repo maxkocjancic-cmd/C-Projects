@@ -1,1 +1,1 @@
-ESP-NOW Wi-Fi communication for filling small reservoirs with heaters mounted directly on plastic injection molding machines and plastic extruders.
+ESP-NOW wireless communication system is used to monitor and control the filling of plastic granules into small reservoirs, with heaters integrated into injection molding machines and plastic extruders
