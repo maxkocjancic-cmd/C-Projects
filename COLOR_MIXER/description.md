@@ -1,2 +1,1 @@
-COLOR MIXER PROJECT
-Machine that injects diye into plastic beans
+Machine that injects dye into plastic beans
