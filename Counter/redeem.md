@@ -1,1 +1,1 @@
-Upgrade for Caterpillar puller with automatic speed controll, and lenght counter
+Upgrade for caterpillar puller with automatic speed controll, lenght counter and controllerd cutter
