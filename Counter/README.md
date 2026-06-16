@@ -1,3 +1,3 @@
 Upgrade for caterpillar puller with automatic speed control, length counter and controllers cutter
 
-![Belt controller]([https://example.com/pump.png](https://github.com/maxkocjancic-cmd/C-Projects/blob/main/Counter/xs7EJcqk0YiT5ffGipRINQlbrMwDCA88Q3aWpMA5hmgmFI5H9v3g_MzrGKDdABud1py3pU-L6gsXhvMDra-OTJi_1YH5ZO7PG3N4iDweyRIgLaw5pmxmWgGM4mOkdloJIXEXqab1u1_eWyQ3rqGzijCjzgaCgf07cBSatzasG6D1uPLFU_3OxNu0HcPpriKd.jpg?raw=true))
+![Belt controller](https://github.com/maxkocjancic-cmd/C-Projects/blob/main/Counter/xs7EJcqk0YiT5ffGipRINQlbrMwDCA88Q3aWpMA5hmgmFI5H9v3g_MzrGKDdABud1py3pU-L6gsXhvMDra-OTJi_1YH5ZO7PG3N4iDweyRIgLaw5pmxmWgGM4mOkdloJIXEXqab1u1_eWyQ3rqGzijCjzgaCgf07cBSatzasG6D1uPLFU_3OxNu0HcPpriKd.jpg?raw=true)
