@@ -4,6 +4,5 @@ ESP-NOW wireless communication system is used to monitor and control the filling
             |
      -----------------
      |       |       |
-   res 1  res 2  res 3
+    res 1  res 2  res 3
 
-   :)
